@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Vesti</title>
+<link>    </link> 
+<description> Ovde možete videti sve vesti o strugari Mertek </description>
+<item>
+<title> Nova vest! </title>
+<link>     </link>
+<description> Nove usluge na Strugari Mertek </description>
+</item>
+</channel>
+</rss>
